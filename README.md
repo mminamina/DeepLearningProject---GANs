@@ -1,2 +1,2 @@
-# DeepLearning_Projects---GANs
+## DeepLearning Projects: GANs
 DeepLearning GANs
