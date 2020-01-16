@@ -1,6 +1,6 @@
 ## DeepLearning Projects: GANs
 
-## Assignment Experience
+### Assignment Experience
 This assignment allows me to employ Deep Convolutional GAN (DCGAN) and Cycle GAN (CycleGAN)
 - to reconstruct images
 - to implement unsupervised learning
@@ -12,14 +12,14 @@ As mentioned in autoencoders README https://github.com/mminamina/Hands-on_DeepLe
 
 Though I am not enrolled in the program, this assignment helps me apply GANs on various machine learning and Fin-tech challenges (to detect anomaly + to generate realistic fake data).
 
-## Worklist
+### Worklist
 For assignment instructions, please refer to https://github.com/udacity/deep-learning-v2-pytorch
 
-## Files
+### Files
 1. CycleGAN.ipynb
 2. DCGAN.ipynb
 
-## Cycle GAN
+### Cycle GAN
 - Build Discriminator networks (Convolutional Neural Networks)
 - Build Generator networks (Encoder+Decoder)
 - Define ResidualBlock for generator
@@ -28,7 +28,7 @@ For assignment instructions, please refer to https://github.com/udacity/deep-lea
 - Translate images from one domain to another
 - Apply image mapping
 
-## Deep Convolutional GAN 
+### Deep Convolutional GAN 
 - Construct deeper network to detect more complex patterns
 - Build Discriminator & Generator (CNN + transpose CNN)
 - Test out different hyperparameters
