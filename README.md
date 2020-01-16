@@ -1,7 +1,7 @@
 ## DeepLearning Projects: GANs
 
 ### Assignment Experience
-This assignment allows me to employ Deep Convolutional GAN (DCGAN) and Cycle GAN (CycleGAN)
+This assignment allows me to employ Deep Convolutional GAN (**DCGAN**) and Cycle GAN (**CycleGAN**)
 - to reconstruct images
 - to implement unsupervised learning
 - to identify patterns
@@ -20,17 +20,17 @@ For assignment instructions, please refer to https://github.com/udacity/deep-lea
 2. DCGAN.ipynb
 
 ### Cycle GAN
-- Build Discriminator networks (Convolutional Neural Networks)
-- Build Generator networks (Encoder+Decoder)
-- Define ResidualBlock for generator
-- Implement Least Squares GANs (LSGAN) loss function to avoid vanishing gradients problem
+- Build **Discriminator** networks (Convolutional Neural Networks)
+- Build **Generator** networks (Encoder+Decoder)
+- Define **ResidualBlock** for generator
+- Implement **Least Squares GANs (LSGAN)** loss function to avoid vanishing gradients problem
 - Utilize unsupervised learning to learn from unpaired data
 - Translate images from one domain to another
 - Apply image mapping
 
 ### Deep Convolutional GAN 
 - Construct deeper network to detect more complex patterns
-- Build Discriminator & Generator (CNN + transpose CNN)
+- Build Discriminator & Generator (**CNN + transpose CNN**)
 - Test out different hyperparameters
 - Test if generator can make discriminator believe that reconstructed(fake) images are real
 
