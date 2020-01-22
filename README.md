@@ -35,7 +35,7 @@ For assignment instructions, please refer to https://github.com/udacity/deep-lea
 - Test if generator can make discriminator believe that reconstructed(fake) images are real
 
 
-#### Packages Used
+#### Packages 
 Python 3.6, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
