@@ -36,6 +36,6 @@ For assignment instructions, please refer to https://github.com/udacity/deep-lea
 
 
 #### Packages Used
-Python 3.6, Pytorch
+Python, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
